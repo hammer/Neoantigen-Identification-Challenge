@@ -4,4 +4,4 @@ Recognition of tumor neoantigens is a major factor in the activity of clinical i
 
 There are a few published pipelines for neoantigen identification \cite{26825632} with accompanying open source software.
 
-We'd like to improve the accuracy of neoantigen identification by comparing the performance of these pipelines.
+We'd like to improve the accuracy of neoantigen identification by comparing the performance and identifying the most informative stages of each pipeline.
