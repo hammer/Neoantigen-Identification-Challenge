@@ -1,2 +1,2 @@
 Challenge_Goals_Recognition_of_tumor__.md
-How_we_ll_get_it__.md
+Challenge_Design_As_documented_elsewhere__.md
