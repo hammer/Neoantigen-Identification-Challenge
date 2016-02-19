@@ -1,19 +1,15 @@
-# How we'll get it
+# Challenge Design
 
-Given sequencing data and TILs, we'll ask the teams to generate ranked lists of neoepitopes. If the pipeline includes multiple stages, we'll ask for a name for each stage and a ranked list of neoepitopes predicted at that stage.
+As documented elsewhere, we'll be collecting blood, somatic tissue, and tumor-infiltrating lymphocytes (TILs) from patients with a few different types of solid tumors. Whole-exome sequencing (WES) will be performed on the blood and somatic tissue and RNA-Seq will be performed on the somatic tissue.
 
-We need to be clear about a few things:
+## Input data
+* Germline WES DNA (FASTQ)
+* Somatic WES DNA (FASTQ)
+* Somatic RNA (FASTQ)
 
-## Tumor and Immune context
-* Previous pathogen exposure of patient
-* Microbiome of patient
-* Capacity of patient to mount immune response
-* Presence of licensing and co-stimulatory cells and cytokines
+## Data to submit
+* VCF with predicted somatic mutations
+* CSV with predicted HLA class I types
+* CSVs with the ranked list of predicted neoepitopes (1 CSV for each stage of the neoepitope prediction pipeline)
 
-## Kinds of peptides
-* Natural response, no treatment
-* Response unleashed by checkpoint blockade (preferably PD-[L]1)
-* Inclusion in vaccine
-
-## Kinds of T cell response
-* Should we phenotype the T cells to differentiate insufficiently activated T cells from activated and then suppressed T cells, e.g.
+## Challenge scoring
