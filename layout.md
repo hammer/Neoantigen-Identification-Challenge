@@ -1,3 +1,3 @@
-Challenge_Goals_Recognition_of_tumor__.md
+Challenge_Goals.md
 Challenge_Design.md
 FAQ_Tumor_and_Immune_context__.md
