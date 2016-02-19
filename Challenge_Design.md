@@ -1,6 +1,6 @@
 # Challenge Design
 
-As documented elsewhere, we'll be collecting blood, somatic tissue, and tumor-infiltrating lymphocytes (TILs) from patients with a few different types of solid tumors. Whole-exome sequencing (WES) will be performed on the blood and somatic tissue and RNA-Seq will be performed on the somatic tissue.
+We'll be collecting blood, somatic tissue, and tumor-infiltrating lymphocytes (TILs) from patients with a few different types of solid tumors. Whole-exome sequencing (WES) will be performed on the blood and somatic tissue and RNA-Seq will be performed on the somatic tissue.
 
 ## Input data
 * Germline WES DNA (FASTQ)
