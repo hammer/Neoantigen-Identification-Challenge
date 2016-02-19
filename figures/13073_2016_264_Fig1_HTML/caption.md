@@ -1,1 +1,1 @@
-Replace this text with your caption
+Overview of the pipeline pVAC-Seq: This figure illustrates the methodological framework behind the pVAC-Seq pipeline. Starting with preparation of inputs, it consists of three main steps - epitope prediction, integration of sequencing information, and filtered candidate selection \cite{26825632}
