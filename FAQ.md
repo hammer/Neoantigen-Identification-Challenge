@@ -8,3 +8,6 @@ To distinguish an incorrect epitope prediction from an epitope against which no 
 
 ## Will the TILs be phenotyped?
 The proprietary T cell epitope discovery assay permits the phenotyping of T cells, so: perhaps. It would be useful to know if the T cells are activated, anergic, or exhausted.
+
+## Will any intermediate validation be performed?
+We may selectively validate intermediate outputs such as predicted somatic mutations, HLA type, and peptide/MHC binding strength.
