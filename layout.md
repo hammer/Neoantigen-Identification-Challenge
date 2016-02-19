@@ -1,3 +1,4 @@
 Challenge_Goals.md
+figures/13073_2016_264_Fig1_HTML/13073_2016_264_Fig1_HTML.png
 Challenge_Design.md
 FAQ.md
